@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gavnik
-- 👀 I’m interested in C, Python, IoT and Solidity
-- 🌱 I’m currently learning Solidity and Js
-- 📫 How to reach me gavriili@uom.edu.gr
+- 👀 I’m interested in C, Python, IoT and Security
+- 🌱 I’m currently pursuing OSCP 
+- 📫 How to reach me: gavriili@uom.edu.gr
 
 <!---
 Gavnik/Gavnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
